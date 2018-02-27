@@ -1,0 +1,5 @@
+---
+title: "My Website"
+---
+
+Hello, World! My name is Jeffery "Hamilton" Smith. I am a student of Appalachian State University, studying to achieve an undergraduate degree in General Managment and minor in Statistics.
